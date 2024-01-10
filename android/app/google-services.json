@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692748945212",
+    "project_id": "minimal-social-app-a893c",
+    "storage_bucket": "minimal-social-app-a893c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692748945212:android:1194b494d19a0afc664039",
+        "android_client_info": {
+          "package_name": "com.example.minimalsocialtute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWPEY-GgB_wRg4IcmqU8JvJT3TkfLizQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
